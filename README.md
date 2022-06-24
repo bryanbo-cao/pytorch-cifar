@@ -1,4 +1,5 @@
-Latest Updates in WIP branch: 
+**Latest Updates in WIP branch:**
+
 https://github.com/bryanbo-cao/pytorch-cifar/tree/wip
 ---
 
