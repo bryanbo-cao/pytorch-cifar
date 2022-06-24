@@ -1,3 +1,7 @@
+Latest Updates in WIP branch: 
+https://github.com/bryanbo-cao/pytorch-cifar/tree/wip
+---
+
 # Train CIFAR10 with PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
